@@ -1,0 +1,14 @@
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\obj\Debug\net8.0\Tematica 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\obj\Debug\net8.0\Tematica 6.AssemblyInfoInputs.cache
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\obj\Debug\net8.0\Tematica 6.AssemblyInfo.cs
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\obj\Debug\net8.0\Tematica 6.csproj.CoreCompileInputs.cache
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\bin\Debug\net8.0\Tematica 6.exe
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\bin\Debug\net8.0\Tematica 6.deps.json
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\bin\Debug\net8.0\Tematica 6.runtimeconfig.json
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\bin\Debug\net8.0\Tematica 6.dll
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\bin\Debug\net8.0\Tematica 6.pdb
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\obj\Debug\net8.0\Tematica 6.dll
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\obj\Debug\net8.0\refint\Tematica 6.dll
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\obj\Debug\net8.0\Tematica 6.pdb
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\obj\Debug\net8.0\Tematica 6.genruntimeconfig.cache
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Tematica 6\obj\Debug\net8.0\ref\Tematica 6.dll
